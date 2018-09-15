@@ -1,0 +1,36 @@
+2018-09-16 02:43:20,264 [DEBUG|PoliceForce/1869570387|TestSearchForFire] Time:1
+2018-09-16 02:43:20,269 [DEBUG|PoliceForce/1869570387|TestRoadDetector] Time:1
+2018-09-16 02:43:20,270 [DEBUG|PoliceForce/1869570387|TestRoadDetector] Targets: []
+2018-09-16 02:43:20,271 [DEBUG|PoliceForce/1869570387|TestSearchForFire] unsearchedBuildingIDs:[948, 949, 950, 951, 952]
+2018-09-16 02:43:20,272 [DEBUG|PoliceForce/1869570387|TestSearchForFire] best path is:[279, 274, 976, 922, 950]
+2018-09-16 02:43:20,273 [DEBUG|PoliceForce/1869570387|TestSearchForFire] choosed:976
+2018-09-16 02:43:22,232 [DEBUG|PoliceForce/1869570387|TestSearchForFire] Time:2
+2018-09-16 02:43:22,232 [DEBUG|PoliceForce/1869570387|TestRoadDetector] Time:2
+2018-09-16 02:43:22,233 [DEBUG|PoliceForce/1869570387|TestRoadDetector] Targets: []
+2018-09-16 02:43:22,233 [DEBUG|PoliceForce/1869570387|TestSearchForFire] unsearchedBuildingIDs:[948, 949, 950, 951, 952]
+2018-09-16 02:43:22,234 [DEBUG|PoliceForce/1869570387|TestSearchForFire] best path is:[279, 274, 976, 922, 950]
+2018-09-16 02:43:22,234 [DEBUG|PoliceForce/1869570387|TestSearchForFire] choosed:976
+2018-09-16 02:43:23,559 [DEBUG|PoliceForce/1869570387|TestSearchForFire] Time:3
+2018-09-16 02:43:23,565 [DEBUG|PoliceForce/1869570387|TestRoadDetector] Time:3
+2018-09-16 02:43:23,565 [DEBUG|PoliceForce/1869570387|TestRoadDetector] Targets: []
+2018-09-16 02:43:23,565 [DEBUG|PoliceForce/1869570387|TestSearchForFire] unsearchedBuildingIDs:[948, 949, 950, 951, 952]
+2018-09-16 02:43:23,566 [DEBUG|PoliceForce/1869570387|TestSearchForFire] best path is:[279, 274, 976, 922, 950]
+2018-09-16 02:43:23,566 [DEBUG|PoliceForce/1869570387|TestSearchForFire] choosed:976
+2018-09-16 02:43:24,891 [DEBUG|PoliceForce/1869570387|TestSearchForFire] Time:4
+2018-09-16 02:43:24,894 [DEBUG|PoliceForce/1869570387|TestRoadDetector] Time:4
+2018-09-16 02:43:24,894 [DEBUG|PoliceForce/1869570387|TestRoadDetector] Targets: []
+2018-09-16 02:43:24,894 [DEBUG|PoliceForce/1869570387|TestSearchForFire] unsearchedBuildingIDs:[948, 949, 950, 951, 952]
+2018-09-16 02:43:24,894 [DEBUG|PoliceForce/1869570387|TestSearchForFire] best path is:[279, 274, 976, 922, 950]
+2018-09-16 02:43:24,895 [DEBUG|PoliceForce/1869570387|TestSearchForFire] choosed:976
+2018-09-16 02:43:26,145 [DEBUG|PoliceForce/1869570387|TestSearchForFire] Time:5
+2018-09-16 02:43:26,145 [DEBUG|PoliceForce/1869570387|TestRoadDetector] Time:5
+2018-09-16 02:43:26,146 [DEBUG|PoliceForce/1869570387|TestRoadDetector] Targets: []
+2018-09-16 02:43:26,146 [DEBUG|PoliceForce/1869570387|TestSearchForFire] unsearchedBuildingIDs:[948, 949, 950, 951, 952]
+2018-09-16 02:43:26,147 [DEBUG|PoliceForce/1869570387|TestSearchForFire] best path is:[279, 274, 976, 922, 950]
+2018-09-16 02:43:26,148 [DEBUG|PoliceForce/1869570387|TestSearchForFire] choosed:976
+2018-09-16 02:43:27,413 [DEBUG|PoliceForce/1869570387|TestSearchForFire] Time:6
+2018-09-16 02:43:27,413 [DEBUG|PoliceForce/1869570387|TestRoadDetector] Time:6
+2018-09-16 02:43:27,413 [DEBUG|PoliceForce/1869570387|TestRoadDetector] Targets: []
+2018-09-16 02:43:27,414 [DEBUG|PoliceForce/1869570387|TestSearchForFire] unsearchedBuildingIDs:[948, 949, 950, 951, 952]
+2018-09-16 02:43:27,419 [DEBUG|PoliceForce/1869570387|TestSearchForFire] best path is:[279, 274, 976, 922, 950]
+2018-09-16 02:43:27,419 [DEBUG|PoliceForce/1869570387|TestSearchForFire] choosed:976

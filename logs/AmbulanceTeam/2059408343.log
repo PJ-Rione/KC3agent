@@ -1,0 +1,36 @@
+2018-09-16 02:43:20,280 [DEBUG|AmbulanceTeam/2059408343|TestHumanDetector] Time:1
+2018-09-16 02:43:20,280 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] Time:1
+2018-09-16 02:43:20,281 [DEBUG|AmbulanceTeam/2059408343|TestHumanDetector] Targets:[]
+2018-09-16 02:43:20,281 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] unsearchedBuildingIDs:[946, 947, 949]
+2018-09-16 02:43:20,281 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] best path is:[976, 921, 949]
+2018-09-16 02:43:20,282 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] choosed:976
+2018-09-16 02:43:22,252 [DEBUG|AmbulanceTeam/2059408343|TestHumanDetector] Time:2
+2018-09-16 02:43:22,253 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] Time:2
+2018-09-16 02:43:22,254 [DEBUG|AmbulanceTeam/2059408343|TestHumanDetector] Targets:[]
+2018-09-16 02:43:22,254 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] unsearchedBuildingIDs:[946, 947, 949]
+2018-09-16 02:43:22,255 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] best path is:[976, 921, 949]
+2018-09-16 02:43:22,255 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] choosed:976
+2018-09-16 02:43:23,549 [DEBUG|AmbulanceTeam/2059408343|TestHumanDetector] Time:3
+2018-09-16 02:43:23,550 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] Time:3
+2018-09-16 02:43:23,550 [DEBUG|AmbulanceTeam/2059408343|TestHumanDetector] Targets:[]
+2018-09-16 02:43:23,550 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] unsearchedBuildingIDs:[946, 947, 949]
+2018-09-16 02:43:23,551 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] best path is:[976, 921, 949]
+2018-09-16 02:43:23,551 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] choosed:976
+2018-09-16 02:43:24,911 [DEBUG|AmbulanceTeam/2059408343|TestHumanDetector] Time:4
+2018-09-16 02:43:24,911 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] Time:4
+2018-09-16 02:43:24,911 [DEBUG|AmbulanceTeam/2059408343|TestHumanDetector] Targets:[]
+2018-09-16 02:43:24,911 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] unsearchedBuildingIDs:[946, 947, 949]
+2018-09-16 02:43:24,912 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] best path is:[976, 921, 949]
+2018-09-16 02:43:24,912 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] choosed:976
+2018-09-16 02:43:26,168 [DEBUG|AmbulanceTeam/2059408343|TestHumanDetector] Time:5
+2018-09-16 02:43:26,168 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] Time:5
+2018-09-16 02:43:26,168 [DEBUG|AmbulanceTeam/2059408343|TestHumanDetector] Targets:[]
+2018-09-16 02:43:26,169 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] unsearchedBuildingIDs:[946, 947, 949]
+2018-09-16 02:43:26,169 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] best path is:[976, 921, 949]
+2018-09-16 02:43:26,169 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] choosed:976
+2018-09-16 02:43:27,430 [DEBUG|AmbulanceTeam/2059408343|TestHumanDetector] Time:6
+2018-09-16 02:43:27,430 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] Time:6
+2018-09-16 02:43:27,430 [DEBUG|AmbulanceTeam/2059408343|TestHumanDetector] Targets:[]
+2018-09-16 02:43:27,430 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] unsearchedBuildingIDs:[946, 947, 949]
+2018-09-16 02:43:27,430 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] best path is:[976, 921, 949]
+2018-09-16 02:43:27,431 [DEBUG|AmbulanceTeam/2059408343|TestSearchForFire] choosed:976

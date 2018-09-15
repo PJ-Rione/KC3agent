@@ -1,0 +1,36 @@
+2018-09-16 02:43:20,288 [DEBUG|FireBrigade/941331988|TestBuildingDetector] Time:1
+2018-09-16 02:43:20,288 [DEBUG|FireBrigade/941331988|TestSearchForFire] Time:1
+2018-09-16 02:43:20,288 [DEBUG|FireBrigade/941331988|TestBuildingDetector] FieryBuildingsTargets: []
+2018-09-16 02:43:20,289 [DEBUG|FireBrigade/941331988|TestSearchForFire] unsearchedBuildingIDs:[960, 251]
+2018-09-16 02:43:20,290 [DEBUG|FireBrigade/941331988|TestSearchForFire] best path is:[256, 281, 273, 969, 968, 970, 896, 960]
+2018-09-16 02:43:20,291 [DEBUG|FireBrigade/941331988|TestSearchForFire] choosed:970
+2018-09-16 02:43:22,250 [DEBUG|FireBrigade/941331988|TestBuildingDetector] Time:2
+2018-09-16 02:43:22,250 [DEBUG|FireBrigade/941331988|TestSearchForFire] Time:2
+2018-09-16 02:43:22,251 [DEBUG|FireBrigade/941331988|TestBuildingDetector] FieryBuildingsTargets: []
+2018-09-16 02:43:22,253 [DEBUG|FireBrigade/941331988|TestSearchForFire] unsearchedBuildingIDs:[960, 251]
+2018-09-16 02:43:22,255 [DEBUG|FireBrigade/941331988|TestSearchForFire] best path is:[256, 281, 273, 969, 968, 970, 896, 960]
+2018-09-16 02:43:22,255 [DEBUG|FireBrigade/941331988|TestSearchForFire] choosed:970
+2018-09-16 02:43:23,547 [DEBUG|FireBrigade/941331988|TestBuildingDetector] Time:3
+2018-09-16 02:43:23,548 [DEBUG|FireBrigade/941331988|TestSearchForFire] Time:3
+2018-09-16 02:43:23,548 [DEBUG|FireBrigade/941331988|TestBuildingDetector] FieryBuildingsTargets: []
+2018-09-16 02:43:23,548 [DEBUG|FireBrigade/941331988|TestSearchForFire] unsearchedBuildingIDs:[960, 251]
+2018-09-16 02:43:23,551 [DEBUG|FireBrigade/941331988|TestSearchForFire] best path is:[256, 281, 273, 969, 968, 970, 896, 960]
+2018-09-16 02:43:23,551 [DEBUG|FireBrigade/941331988|TestSearchForFire] choosed:970
+2018-09-16 02:43:24,905 [DEBUG|FireBrigade/941331988|TestBuildingDetector] Time:4
+2018-09-16 02:43:24,905 [DEBUG|FireBrigade/941331988|TestSearchForFire] Time:4
+2018-09-16 02:43:24,905 [DEBUG|FireBrigade/941331988|TestBuildingDetector] FieryBuildingsTargets: []
+2018-09-16 02:43:24,906 [DEBUG|FireBrigade/941331988|TestSearchForFire] unsearchedBuildingIDs:[960, 251]
+2018-09-16 02:43:24,906 [DEBUG|FireBrigade/941331988|TestSearchForFire] best path is:[256, 281, 273, 969, 968, 970, 896, 960]
+2018-09-16 02:43:24,906 [DEBUG|FireBrigade/941331988|TestSearchForFire] choosed:970
+2018-09-16 02:43:26,158 [DEBUG|FireBrigade/941331988|TestBuildingDetector] Time:5
+2018-09-16 02:43:26,159 [DEBUG|FireBrigade/941331988|TestSearchForFire] Time:5
+2018-09-16 02:43:26,159 [DEBUG|FireBrigade/941331988|TestBuildingDetector] FieryBuildingsTargets: []
+2018-09-16 02:43:26,159 [DEBUG|FireBrigade/941331988|TestSearchForFire] unsearchedBuildingIDs:[960, 251]
+2018-09-16 02:43:26,160 [DEBUG|FireBrigade/941331988|TestSearchForFire] best path is:[256, 281, 273, 969, 968, 970, 896, 960]
+2018-09-16 02:43:26,160 [DEBUG|FireBrigade/941331988|TestSearchForFire] choosed:970
+2018-09-16 02:43:27,429 [DEBUG|FireBrigade/941331988|TestBuildingDetector] Time:6
+2018-09-16 02:43:27,429 [DEBUG|FireBrigade/941331988|TestSearchForFire] Time:6
+2018-09-16 02:43:27,429 [DEBUG|FireBrigade/941331988|TestBuildingDetector] FieryBuildingsTargets: []
+2018-09-16 02:43:27,429 [DEBUG|FireBrigade/941331988|TestSearchForFire] unsearchedBuildingIDs:[960, 251]
+2018-09-16 02:43:27,430 [DEBUG|FireBrigade/941331988|TestSearchForFire] best path is:[256, 281, 273, 969, 968, 970, 896, 960]
+2018-09-16 02:43:27,430 [DEBUG|FireBrigade/941331988|TestSearchForFire] choosed:970
